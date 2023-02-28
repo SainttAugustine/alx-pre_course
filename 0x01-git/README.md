@@ -1,1 +1,1 @@
-I am going to become a competent developer
+A change is going to come
